@@ -130,7 +130,7 @@
   } */
   .steps-container {
    
-    width: 710px;
+    width: 610px;
     margin-top: 20px ;
     padding: 10px 10px 1px 10px;
     
@@ -142,8 +142,8 @@
   }
   
   .step-container {
-    width: 75px;
-    height: 70px;
+    width: 65px;
+    height: 60px;
   }
   .number { 
     font-size: 21px;
@@ -172,20 +172,20 @@
   }
   .steps-container {
    
-    width: 700px;
+    width: 600px;
     margin-top: 20px ;
     padding: 10px 10px 18px 10px;
     
   }
 
   .step {
-    width: 75px;
+    width: 85px;
     
   }
   
   .step-container {
-    width: 75px;
-    height: 70px;
+    width: 55px;
+    height: 60px;
   }
   .number { 
     font-size: 21px;
