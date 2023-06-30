@@ -111,7 +111,7 @@
     .btn11{
       width: 100px;  
       height:50px;
-      margin-left:500px;
+      margin-left:350px;
     }
   }
   @media only screen and (max-width: 1200px) and (min-width: 1025px) 
@@ -131,7 +131,7 @@
     .btn3{
       
       width: 180px;  
-      margin-left:55px;
+      margin-left:75px;
       /* margin-bottom:10px; */
     }
     .btn11{
@@ -170,11 +170,11 @@
       margin-left:-100px;
       margin-top:200px;
     }
-  .img_7{
+    .img_7{
     width:480px;
     margin-left:80px;
     margin-top:50px;
-  }
+    }
     
     
   }
@@ -231,11 +231,11 @@
     margin-left:-100px;
     margin-top:200px;
   }
-.img_7{
+  .img_7{
   width:480px;
   margin-left:80px;
   margin-top:50px;
-}
+  }
 }
   @media only screen and (max-width: 991px) and (min-width: 901px) 
 {
@@ -410,7 +410,7 @@
     .btn3{
       
       width: 100px;  
-      margin-left:100px;
+      margin-left:120px;
       /* margin-bottom:10px; */
      
     
@@ -460,7 +460,7 @@
     .btn3{
       
       width: 100px;  
-      margin-left:80px;
+      margin-left:70px;
       /* margin-bottom:10px; */
      
     
@@ -468,7 +468,7 @@
     .btn11{
       width: 100px;  
       height:50px;
-      margin-left:180px;
+      margin-left:260px;
     }
     .img_1{
       display:none;
@@ -557,7 +557,7 @@
       height:50px;
       /* margin-left:85px; */
       /* margin-bottom:10px; */
-      margin-left:80px;
+      margin-left:70px;
     
     }
   
@@ -565,7 +565,7 @@
       
       width: 100px;  
       height:50px;
-      margin-left:30px;
+      margin-left:20px;
       /* margin-bottom:10px; */
      
     
